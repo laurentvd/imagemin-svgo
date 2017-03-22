@@ -40,7 +40,8 @@
     "svgo"
   ],
   "dependencies": {
-    "is-svg": "^2.0.0"
+    "is-svg": "^2.0.0",
+    "svgo": "github:strarsis/svgo#inlineStyles"
   },
   "devDependencies": {
     "ava": "*",
